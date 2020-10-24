@@ -5,7 +5,7 @@
 | [X](https://github.com/JinsYin/x) | 代码扩展库 |
 | [Draw.io](https://github.com/JinsYin/draw.io) | 流程图存储库 |
 | [Private](https://github.com/jinsyin/private) | 私有仓库 |
-| [Scripts](https://github.com/jinsyin/private) | 私有脚本 |
+| [Scripts](https://github.com/jinsyin/scripts) | 私有脚本 |
 
 ## GitHub
 
