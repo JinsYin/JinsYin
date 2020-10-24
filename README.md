@@ -11,4 +11,4 @@
 - [Repositories](https://github.com/JinsYin?tab=repositories)
 - [Organizations](https://github.com/settings/organizations)
 - [Projects](https://github.com/JinsYin?tab=projects)
-- [GitHube Settings](https://github.com/settings/profile)
+- [GitHub Settings](https://github.com/settings/profile)
