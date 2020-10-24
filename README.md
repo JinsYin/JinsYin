@@ -1,22 +1,13 @@
-# Hi there 👋
-
-## Navigator
-
-
+# Welcome 👋👋👋
 
 ## Repositories
 
-- <a href="https://github.com/JinsYin/x" target="_blank">X</a>
+- [X](https://github.com/JinsYin/x) - 代码扩展库
+- [Draw.io](https://github.com/JinsYin/draw.io) - 流程图存储库
 
-**JinsYin/jinsyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Repositories](https://github.com/JinsYin?tab=repositories)
+- [Organizations](https://github.com/settings/organizations)
+- [Projects](https://github.com/JinsYin?tab=projects)
+- [GitHube Settings](https://github.com/settings/profile)
