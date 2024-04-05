@@ -9,7 +9,6 @@
 	<!-- https://github.com/devicons/devicon -->
 	<!-- https://github.com/VectorLogoZone/vectorlogozone -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"  />
-	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TS" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />
