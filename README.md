@@ -1,7 +1,7 @@
 <h2>🏆 Achievements</h2>
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jinsyin&show_icons=true"  alt="star"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsyin&layout=compact" alt="lang" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jinsyin&show_icons=true&custom_title=GitHub%20Statistics"  alt="star"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsyin&layout=compact&custom_title=Top%20Languages" alt="lang" />
 </div>
 
 <h2>🛠 Personal Skills</h2>
