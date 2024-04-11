@@ -40,10 +40,10 @@
         <td>SQL Dialect Translator</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/jinsyin/">-</a></td>
-        <td>-</td>
-	<td><a href="https://github.com/jinsyin/">-</a></td>
-        <td>-</td>
+        <td></td>
+        <td></td>
+	<td></td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan="4">Flink</td>
@@ -61,14 +61,14 @@
     <tr>
         <td><a href="https://github.com/JinsYin/flink-connector-hive">flink-connector-hive</a></td>
         <td>Hive Connector</td>
-	<td><a href="https://github.com/JinsYin/flink-formats">flink-formats</a></td>
-        <td>Flink formats</td>
+	<td><a href="https://github.com/JinsYin/flink-metrics">flink-metrics</a></td>
+        <td>JDBC & Prometheus</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JinsYin/flink-connector-socket">flink-connector-socket</a></td>
         <td>Socket Connector</td>
-	<td><a href="https://github.com/JinsYin/flink-metrics">flink-metrics</a></td>
-        <td>JDBC & Prometheus</td>
+	<td></td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan="7">Spark</td>
