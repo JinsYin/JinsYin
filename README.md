@@ -36,25 +36,65 @@
         <td>Data integration framework</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/jinsyin/">-</a></td>
-        <td>-</td>
+        <td><a href="https://github.com/jinsyin/sql-translator">sql-translator</a></td>
+        <td>SQL Dialect Translator</td>
     </tr>
     <tr>
-        <td rowspan="2">Flink</td>
+        <td rowspan="7">Flink</td>
         <td><a href="https://github.com/jinsyin/flink-connector-mongo">flink-connector-mongo</a></td>
         <td>MongoDB Connector</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/flink-connector-redis">flink-connector-redis</a></td>
+        <td>Redis Connector</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/flink-connector-hive">flink-connector-hive</a></td>
+        <td>Hive Connector</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/flink-connector-socket">flink-connector-socket</a></td>
+        <td>Socket Connector</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/flink-udfs">flink-udfs</a></td>
+        <td>Flink UDFs</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JinsYin/flink-formats">flink-formats</a></td>
         <td>Flink formats</td>
     </tr>
     <tr>
-        <td rowspan="2">Spark</td>
-        <td><a href="https://github.com/jinsyin/">-</a></td>
-        <td>-</td>
+        <td><a href="https://github.com/JinsYin/flink-metrics">flink-metrics</a></td>
+        <td>JDBC & Prometheus</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JinsYin/">-</a></td>
-        <td>-</td>
+        <td rowspan="7">Spark</td>
+        <td><a href="https://github.com/JinsYin/spark-datasource-kafka">spark-datasource-kafka</a></td>
+        <td>Kafka Datasource</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/spark-datasource-hbase">spark-datasource-hbase</a></td>
+        <td>HBase Datasource</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/spark-datasource-hbase">spark-datasource-hbase</a></td>
+        <td>HBase Datasource</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/spark-datasource-mongo">spark-datasource-mongo</a></td>
+        <td>MongoDB Datasource</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/spark-datasource-greenplum">spark-datasource-greenplum</a></td>
+        <td>Greenplum Datasource</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/spark-datasource-elasticsearch">spark-datasource-elasticsearch</a></td>
+        <td>Elasticsearch Datasource</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/spark-datasource-redis">spark-datasource-redis</a></td>
+        <td>Redis Datasource</td>
     </tr>
 </table>
