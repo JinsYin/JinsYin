@@ -1,7 +1,7 @@
 <h2>🏆 Achievements</h2>
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jinsyin&show_icons=true&custom_title=GitHub%20Statistics"  alt="star"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsyin&layout=compact&custom_title=Top%20Languages" alt="lang" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsyin&layout=compact&custom_title=Programming%20Languages" alt="lang" />
 </div>
 
 <h2>🛠 Personal Skills</h2>
@@ -23,78 +23,70 @@
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
 </p>
 
-<h2>✨ Contributions</h2>
+<h2>✨ Open Sources</h2>
 <table>
-	<tr>
-        <td><b>Category</b></td>
-        <td><b>Repository</b></td>
-        <td><b>Description</b></td>
+    <tr>
+        <th><b>Category</b></th>
+        <th><b>Repository</b></th>
+        <th><b>Description</b></th>
+	<th><b>Repository</b></th>
+        <th><b>Description</b></th>
     </tr>
     <tr>
         <td rowspan="2">Data</td>
         <td><a href="https://github.com/jinsyin/datalink">DataLink</a></td>
-        <td>Data integration framework</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jinsyin/sql-translator">sql-translator</a></td>
+        <td>Data Integration</td>
+	<td><a href="https://github.com/jinsyin/sql-translator">sql-translator</a></td>
         <td>SQL Dialect Translator</td>
     </tr>
     <tr>
-        <td rowspan="7">Flink</td>
+        <td><a href="https://github.com/jinsyin/">-</a></td>
+        <td>-</td>
+	<td><a href="https://github.com/jinsyin/">-</a></td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Flink</td>
         <td><a href="https://github.com/jinsyin/flink-connector-mongo">flink-connector-mongo</a></td>
         <td>MongoDB Connector</td>
+	<td><a href="https://github.com/JinsYin/flink-udfs">flink-udfs</a></td>
+        <td>Flink UDFs</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JinsYin/flink-connector-redis">flink-connector-redis</a></td>
         <td>Redis Connector</td>
+	<td><a href="https://github.com/JinsYin/flink-formats">flink-formats</a></td>
+        <td>Flink formats</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JinsYin/flink-connector-hive">flink-connector-hive</a></td>
         <td>Hive Connector</td>
+	<td><a href="https://github.com/JinsYin/flink-formats">flink-formats</a></td>
+        <td>Flink formats</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JinsYin/flink-connector-socket">flink-connector-socket</a></td>
         <td>Socket Connector</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JinsYin/flink-udfs">flink-udfs</a></td>
-        <td>Flink UDFs</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JinsYin/flink-formats">flink-formats</a></td>
-        <td>Flink formats</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JinsYin/flink-metrics">flink-metrics</a></td>
+	<td><a href="https://github.com/JinsYin/flink-metrics">flink-metrics</a></td>
         <td>JDBC & Prometheus</td>
     </tr>
     <tr>
         <td rowspan="7">Spark</td>
         <td><a href="https://github.com/JinsYin/spark-datasource-kafka">spark-datasource-kafka</a></td>
         <td>Kafka Datasource</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JinsYin/spark-datasource-hbase">spark-datasource-hbase</a></td>
-        <td>HBase Datasource</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JinsYin/spark-datasource-hbase">spark-datasource-hbase</a></td>
-        <td>HBase Datasource</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JinsYin/spark-datasource-mongo">spark-datasource-mongo</a></td>
+	<td><a href="https://github.com/JinsYin/spark-datasource-mongo">spark-datasource-mongo</a></td>
         <td>MongoDB Datasource</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JinsYin/spark-datasource-greenplum">spark-datasource-greenplum</a></td>
+	<td><a href="https://github.com/JinsYin/spark-datasource-greenplum">spark-datasource-greenplum</a></td>
         <td>Greenplum Datasource</td>
+	<td><a href="https://github.com/JinsYin/spark-datasource-hbase">spark-datasource-hbase</a></td>
+        <td>HBase Datasource</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JinsYin/spark-datasource-elasticsearch">spark-datasource-elasticsearch</a></td>
         <td>Elasticsearch Datasource</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JinsYin/spark-datasource-redis">spark-datasource-redis</a></td>
+	<td><a href="https://github.com/JinsYin/spark-datasource-redis">spark-datasource-redis</a></td>
         <td>Redis Datasource</td>
     </tr>
 </table>
