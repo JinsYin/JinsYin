@@ -34,9 +34,9 @@
     </tr>
     <tr>
         <td rowspan="2">Data</td>
-        <td><a href="https://github.com/jinsyin/datalink">DataLink</a></td>
+        <td><a href="https://github.com/JinsYin/DataLink">DataLink</a></td>
         <td>Data Integration</td>
-	<td><a href="https://github.com/jinsyin/datasql">DataSQL</a></td>
+	<td><a href="https://github.com/JinsYin/DataSQL">DataSQL</a></td>
         <td>SQL Dialect Translator</td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <td rowspan="4">Flink</td>
-        <td><a href="https://github.com/jinsyin/flink-connector-mongo">flink-connector-mongo</a></td>
+        <td><a href="https://github.com/JinsYin/flink-connector-mongo">flink-connector-mongo</a></td>
         <td>MongoDB Connector</td>
 	<td><a href="https://github.com/JinsYin/flink-udfs">flink-udfs</a></td>
         <td>Flink UDFs</td>
@@ -91,7 +91,7 @@
     </tr>
 	<tr>
         <td><a href="https://github.com/JinsYin/spark-datasource-socket">spark-datasource-socket</a></td>
-        <td>Elasticsearch Datasource</td>
+        <td>Socket Datasource</td>
 	<td></td>
         <td></td>
     </tr>
