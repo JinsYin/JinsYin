@@ -36,7 +36,7 @@
         <td rowspan="2">Data</td>
         <td><a href="https://github.com/jinsyin/datalink">DataLink</a></td>
         <td>Data Integration</td>
-	<td><a href="https://github.com/jinsyin/sql-translator">sql-translator</a></td>
+	<td><a href="https://github.com/jinsyin/datasql">DataSQL</a></td>
         <td>SQL Dialect Translator</td>
     </tr>
     <tr>
@@ -88,5 +88,11 @@
         <td>Elasticsearch Datasource</td>
 	<td><a href="https://github.com/JinsYin/spark-datasource-redis">spark-datasource-redis</a></td>
         <td>Redis Datasource</td>
+    </tr>
+	<tr>
+        <td><a href="https://github.com/JinsYin/spark-datasource-socket">spark-datasource-socket</a></td>
+        <td>Elasticsearch Datasource</td>
+	<td></td>
+        <td></td>
     </tr>
 </table>
