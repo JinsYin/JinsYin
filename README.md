@@ -71,7 +71,7 @@
         <td></td>
     </tr>
     <tr>
-        <td rowspan="7">Spark</td>
+        <td rowspan="4">Spark</td>
         <td><a href="https://github.com/JinsYin/spark-datasource-kafka">spark-datasource-kafka</a></td>
         <td>Kafka Datasource</td>
 	<td><a href="https://github.com/JinsYin/spark-datasource-mongo">spark-datasource-mongo</a></td>
@@ -89,10 +89,18 @@
 	<td><a href="https://github.com/JinsYin/spark-datasource-redis">spark-datasource-redis</a></td>
         <td>Redis Datasource</td>
     </tr>
-	<tr>
+    <tr>
         <td><a href="https://github.com/JinsYin/spark-datasource-socket">spark-datasource-socket</a></td>
         <td>Socket Datasource</td>
 	<td></td>
         <td></td>
+    </tr>
+    <tr>
+	<td>Others</td>
+	<td colspan="4">
+	   <a href="https://github.com/JinsYin/coding-java">coding-java</a><span>, </span>
+	   <a href="https://github.com/JinsYin/template-java">template-java</a><span>, </span>
+	   <a href="https://github.com/JinsYin/template-gitbook">template-gitbook</a>
+	</td>
     </tr>
 </table>
