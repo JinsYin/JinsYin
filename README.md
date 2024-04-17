@@ -37,7 +37,7 @@
         <td><a href="https://github.com/JinsYin/DataLink">DataLink</a></td>
         <td>Data Integration</td>
 	<td><a href="https://github.com/JinsYin/DataSQL">DataSQL</a></td>
-        <td>SQL Dialect Translator</td>
+        <td>SQL Tools</td>
     </tr>
     <tr>
         <td></td>
