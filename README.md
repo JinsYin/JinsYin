@@ -4,7 +4,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsyin&layout=compact&custom_title=Programming%20Languages" alt="lang" />
 </div>
 
-<h2>🛠 Personal Skills</h2>
+<h2>🛠 Skills & Tools</h2>
 <p>
 	<!-- https://github.com/devicons/devicon -->
 	<!-- https://github.com/VectorLogoZone/vectorlogozone -->
