@@ -4,6 +4,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsyin&layout=compact&custom_title=Programming%20Languages" alt="lang" />
 </div>
 
+
 <h2>🛠 Skills & Tools</h2>
 <p>
 	<!-- https://github.com/devicons/devicon -->
@@ -23,6 +24,7 @@
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
 </p>
 
+
 <h2>✨ Open Sources</h2>
 <table>
     <tr>
@@ -34,20 +36,18 @@
     </tr>
     <tr>
         <td rowspan="2">Data</td>
-        <td><a href="https://github.com/JinsYin/datalink">DataLink</a></td>
+	<td><a href="https://github.com/jinsyin/awesome-datalake"><b>Awesome DataLake</b></a></td>
+	<td>Awesome data lake</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JinsYin/datalink"><b>DataLink</b></a></td>
         <td>Data Integration</td>
 	<td><a href="https://github.com/JinsYin/datasql"><i>DataSQL</i></a></td>
         <td>SQL Tools</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-	<td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td rowspan="4">Flink</td>
-        <td><a href="https://github.com/JinsYin/flink-connector-mongo">flink-connector-mongo</a></td>
+        <td><a href="https://github.com/JinsYin/flink-connector-mongo"><b>flink-connector-mongo</b></a></td>
         <td>MongoDB Connector</td>
 	<td><a href="https://github.com/JinsYin/flink-udfs">flink-udfs</a></td>
         <td>Flink UDFs</td>
@@ -100,11 +100,7 @@
 	<td colspan="4">
 	   <a href="https://github.com/JinsYin/coding-java">coding-java</a><span>, </span>
 	   <a href="https://github.com/JinsYin/coding-js">coding-js</a><span>, </span>
-	   <a href="https://github.com/JinsYin/coding-python">coding-python</a>
-	</td>
-    </tr>
-    <tr>
-    	<td colspan="4">
+	   <a href="https://github.com/JinsYin/coding-python">coding-python</a><span>, </span>
 	   <a href="https://github.com/JinsYin/template-java">template-java</a><span>, </span>
 	   <a href="https://github.com/JinsYin/template-gitbook">template-gitbook</a>
 	</td>
