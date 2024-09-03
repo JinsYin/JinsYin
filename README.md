@@ -102,6 +102,7 @@
 	   <a href="https://github.com/JinsYin/coding-js">coding-js</a><span>, </span>
 	   <a href="https://github.com/JinsYin/coding-python">coding-python</a><span>, </span>
 	   <a href="https://github.com/JinsYin/template-java">template-java</a><span>, </span>
+	   <a href="https://github.com/JinsYin/template-vue">template-vue</a><span>, </span>
 	   <a href="https://github.com/JinsYin/template-gitbook">template-gitbook</a>
 	</td>
     </tr>
