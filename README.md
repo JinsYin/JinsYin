@@ -100,9 +100,12 @@
 	<td colspan="4">
 	   <a href="https://github.com/JinsYin/coding-java">coding-java</a><span>, </span>
 	   <a href="https://github.com/JinsYin/coding-js">coding-js</a><span>, </span>
-	   <a href="https://github.com/JinsYin/coding-python">coding-python</a><span>, </span>
+	   <a href="https://github.com/JinsYin/coding-python">coding-python</a>
+	   <br/>
 	   <a href="https://github.com/JinsYin/template-java">template-java</a><span>, </span>
 	   <a href="https://github.com/JinsYin/template-vue">template-vue</a><span>, </span>
+	   <a href="https://github.com/JinsYin/template-electron">template-electron</a><span>, </span>
+	   <a href="https://github.com/JinsYin/template-uniapp">template-uniapp</a><span>, </span>
 	   <a href="https://github.com/JinsYin/template-gitbook">template-gitbook</a>
 	</td>
     </tr>
