@@ -37,7 +37,9 @@
     <tr>
         <td rowspan="2">Data</td>
 	<td><a href="https://github.com/jinsyin/awesome-datalake"><b>Awesome DataLake</b></a></td>
-	<td>Awesome data lake</td>
+	<td>Awesome Data Lake</td>
+	<td><a href="https://github.com/jinsyin/awesome-dataspace"><b>Awesome Dataspace</b></a></td>
+	<td>Awesome Dataspace</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JinsYin/datalink"><b>DataLink</b></a></td>
